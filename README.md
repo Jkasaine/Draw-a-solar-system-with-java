@@ -1,4 +1,4 @@
-# Solar System Simulator
+# Draw Solar System
 
 ![Solar System](solar_system.png)
 
@@ -35,9 +35,6 @@ If you want to add a moon to a planet, create a new instance of the Planet class
 java
 planets.add(new Planet(jupiter.getCenter(), 5, 15, 0, "Ganymede", Color.GRAY, "", jupiter));
 Run the DrawSolar class to generate the updated solar system image with your new planets and features.
-
-Screenshots
-Solar System Screenshot
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
