@@ -1,4 +1,8 @@
-# Draw Solar System
+
+
+
+
+# Draw Solar System in Java.
 
 ![Solar System](solar_system.png)
 
@@ -10,6 +14,7 @@ The Solar System Simulator is a Java application that generates an image of our 
 
 1. Clone this repository to your local machine:
 git clone https://github.com/your-username/solar-system-simulator.git
+
 
 
 2. Ensure you have Java Development Kit (JDK) installed on your system.
@@ -35,6 +40,3 @@ If you want to add a moon to a planet, create a new instance of the Planet class
 java
 planets.add(new Planet(jupiter.getCenter(), 5, 15, 0, "Ganymede", Color.GRAY, "", jupiter));
 Run the DrawSolar class to generate the updated solar system image with your new planets and features.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
