@@ -13,7 +13,7 @@ The Solar System Simulator is a Java application that generates an image of our 
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/solar-system-simulator.git
+git clone [https://github.com/MaraBytes/Draw-Solar-system-with-Java.git]
 
 
 
